@@ -2,11 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:333333&height=200&section=header&text=Lumina%20Studio%20Ltda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Turning%20ideas%20into%20digital%20experiences&descSize=16&descAlignY=58&descColor=cccccc)
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=620&lines=Web+Development+%7C+Roblox+Studio;Landing+Pages+%E2%80%A2+Systems+%E2%80%A2+Games;Quality+that+lights+up+every+project.)](https://git.io/typing-svg)
 
-<br/>
 
 </div>
 
@@ -109,11 +107,9 @@ We are **5 founding partners** with complementary skills, working together to de
 
 <div align="center">
 
-<br/>
 
 Have a project in mind? **Let's talk.**
 
-<br/>
 
 [![Email](https://img.shields.io/badge/contato%40luminastudio.com.br-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:contato@luminastudio.com.br)
 &nbsp;
@@ -123,7 +119,6 @@ Have a project in mind? **Let's talk.**
 &nbsp;
 [![Website](https://img.shields.io/badge/luminastudio.com.br-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](https://luminastudio.com.br)
 
-<br/>
 
 </div>
 
