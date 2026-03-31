@@ -22,22 +22,22 @@
 
 <h2 align="center">✦ <em>About Us</em> ✦</h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
-
-<br/>
-
+<table border="0" align="center"><tr>
+<td width="60%" valign="middle">
 <p>
   Welcome to <em><b>Lumina Studio</b></em> — a creative development studio formed by <b>5 passionate developers</b> who build modern web experiences and immersive games. We blend fullstack engineering with game development to craft products that are functional, beautiful, and engaging.
 </p>
-
-<br/>
-
-<p align="center">
+<p>
   🌐 &nbsp; <em><b>Fullstack Web & App Development (React, Next.js, Node.js)</b></em> <br/>
   🎮 &nbsp; <em><b>Roblox Game Development (Environments, Modules, Scripts)</b></em> <br/>
   🛠️ &nbsp; <em><b>5 Developers · Collaborative & Multidisciplinary Team</b></em> <br/>
-  🚀 &nbsp; <em><b>Deployed on Vercel · Built for scale</b></em> <br/>
+  🚀 &nbsp; <em><b>Deployed on Vercel · Built for scale</b></em>
 </p>
+</td>
+<td width="40%" valign="middle" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" />
+</td>
+</tr></table>
 
 <br/>
 <br/>
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=LuminaStudioLtda&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=LuminaStudioLtda&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&card_width=401" /><br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminaStudioLtda&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
