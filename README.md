@@ -35,7 +35,7 @@
 </p>
 </td>
 <td width="40%" valign="middle" align="center" style="padding:0">
-  <img src="https://raw.githubusercontent.com/LuminaStudioLtda/LuminaStudioLtda/main/coding.gif.gif" width="220" style="display:block;margin:0" />
+  <img src="https://raw.githubusercontent.com/LuminaStudioLtda/LuminaStudioLtda/main/coding.gif.gif" width="420" style="display:block;margin:0" />
 </td>
 </tr></table>
 
@@ -83,8 +83,6 @@
 <h2 align="center">📊 <em>Statistics</em></h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LuminaStudioLtda&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&card_width=401" /><br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminaStudioLtda&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
