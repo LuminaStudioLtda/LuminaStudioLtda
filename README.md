@@ -35,7 +35,7 @@
 </p>
 </td>
 <td width="40%" valign="middle" align="center" style="padding:0">
-  <img src="https://raw.githubusercontent.com/LuminaStudioLtda/LuminaStudioLtda/main/coding.gif.gif" width="420" style="display:block;margin:0" />
+  <img src="https://raw.githubusercontent.com/LuminaStudioLtda/LuminaStudioLtda/main/coding.gif.gif" width="320" height="230" style="display:block;margin:0" />
 </td>
 </tr></table>
 
