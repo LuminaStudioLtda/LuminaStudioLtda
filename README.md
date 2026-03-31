@@ -8,9 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/c6630f0f-6246-444a-935b-163283281211?raw=true" style="border-radius: 12px; border: 1px solid #9d35b9;" />
-</div>
 
 <hr style="border: 0.5px solid #333;" />
 
@@ -30,13 +27,13 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="100%" align="center" style="padding: 10px;">
+    <td width="150%" align="center" style="padding: 10px;">
       <h4 style="color: #9d35b9;">💻 Web Development</h4>
       <p>High-End Landing Pages • Scalable Web Systems • Custom API Integrations • Next-Gen Infrastructure</p>
     </td>
   </tr>
   <tr>
-    <td width="100%" align="center" style="padding: 10px;">
+    <td width="150%" align="center" style="padding: 10px;">
       <h4 style="color: #9d35b9;">🎮 Roblox Development</h4>
       <p>Premium UI / UX Design • Advanced Luau Scripting • Game Design & Mechanics • Live Ops & Updates</p>
     </td>
