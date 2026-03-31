@@ -25,20 +25,22 @@
   <h3><code>🚀 Services & Expertise</code></h3>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="150%" align="center" style="padding: 10px;">
-      <h4 style="color: #9d35b9;">💻 Web Development</h4>
-      <p>High-End Landing Pages • Scalable Web Systems • Custom API Integrations • Next-Gen Infrastructure</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="150%" align="center" style="padding: 10px;">
-      <h4 style="color: #9d35b9;">🎮 Roblox Development</h4>
-      <p>Premium UI / UX Design • Advanced Luau Scripting • Game Design & Mechanics • Live Ops & Updates</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="150%" align="center" style="padding: 10px;">
+        <h4 style="color: #9d35b9;">💻 Web Development</h4>
+        <p>High-End Landing Pages • Scalable Web Systems • Custom API Integrations • Next-Gen Infrastructure</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="150%" align="center" style="padding: 10px;">
+        <h4 style="color: #9d35b9;">🎮 Roblox Development</h4>
+        <p>Premium UI / UX Design • Advanced Luau Scripting • Game Design & Mechanics • Live Ops & Updates</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr style="border: 0.5px solid #333;" />
 
