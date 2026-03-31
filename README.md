@@ -24,7 +24,7 @@
 
 <div align="center">
 
-| 💻 Web Development | <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/389f2d0b-b40a-4118-b879-f415d26fea7d" /> Roblox Development |
+| 💻 Web Development | <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/389f2d0b-b40a-4118-b879-f415d26fea7d" /> Roblox Development |
 |:---|:---|
 | **Landing Pages** — High conversion & performance | **UI / UX** — Intuitive in-game interfaces |
 | **Web Systems** — Robust, scalable applications | **Scripts & Systems** — Gameplay, inventory & events |
