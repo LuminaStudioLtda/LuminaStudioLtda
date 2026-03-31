@@ -18,8 +18,6 @@
 
 **Lumina Studio Ltda** is a software development company founded by **5 partners** passionate about technology and innovation. We operate in two market segments — **high-standard web development** and **immersive Roblox experiences** — delivering solutions that combine technical excellence with impactful design.
 
-> 💡 Our mission: **illuminate every project with creativity, precision, and results.**
-
 ---
 
 ## 🚀 What We Do
