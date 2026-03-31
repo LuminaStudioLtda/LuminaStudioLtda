@@ -24,7 +24,7 @@
 
 <div align="center">
 
-| 🌐 Web Development | 🎮 Roblox Development |
+| 💻 Web Development | <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/389f2d0b-b40a-4118-b879-f415d26fea7d" /> Roblox Development |
 |:---|:---|
 | **Landing Pages** — High conversion & performance | **UI / UX** — Intuitive in-game interfaces |
 | **Web Systems** — Robust, scalable applications | **Scripts & Systems** — Gameplay, inventory & events |
@@ -170,5 +170,5 @@ Have a project in mind? **Let's talk.**
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:333333,50:1a1a1a,100:000000&fontColor=cccccc&fontSize=13&text=©%202025%20·%20Lumina%20Studio%20Ltda%20·%20All%20rights%20reserved.&fontAlignY=65" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:333333,50:1a1a1a,100:000000&fontColor=cccccc&fontSize=13&text=©%202026%20·%20Lumina%20Studio%20Ltda%20·%20All%20rights%20reserved.&fontAlignY=65" />
 </div>
