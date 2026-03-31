@@ -22,23 +22,20 @@
 
 <h2 align="center">✦ <em>About Us</em> ✦</h2>
 
-<table border="0" width="100%"><tr>
-<td width="55%" valign="middle" style="padding-right: 30px;">
-<br/>
+<table border="0" align="center"><tr>
+<td width="60%" valign="middle">
 <p>
   Welcome to <em><b>Lumina Studio</b></em> — a creative development studio formed by <b>5 passionate developers</b> who build modern web experiences and immersive games. We blend fullstack engineering with game development to craft products that are functional, beautiful, and engaging.
 </p>
-<br/>
 <p>
-  🌐 &nbsp; <em><b>Fullstack Web & App Development (React, Next.js, Node.js)</b></em> <br/><br/>
-  🎮 &nbsp; <em><b>Roblox Game Development (Environments, Modules, Scripts)</b></em> <br/><br/>
-  🛠️ &nbsp; <em><b>5 Developers · Collaborative & Multidisciplinary Team</b></em> <br/><br/>
+  🌐 &nbsp; <em><b>Fullstack Web & App Development (React, Next.js, Node.js)</b></em> <br/>
+  🎮 &nbsp; <em><b>Roblox Game Development (Environments, Modules, Scripts)</b></em> <br/>
+  🛠️ &nbsp; <em><b>5 Developers · Collaborative & Multidisciplinary Team</b></em> <br/>
   🚀 &nbsp; <em><b>Deployed on Vercel · Built for scale</b></em>
 </p>
-<br/>
 </td>
-<td width="45%" valign="middle" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" />
+<td width="40%" valign="middle" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
 </td>
 </tr></table>
 
