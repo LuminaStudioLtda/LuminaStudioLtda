@@ -22,7 +22,7 @@
 
 <h2 align="center">✦ <em>About Us</em> ✦</h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <br/>
 
@@ -84,8 +84,8 @@
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=lumina-studio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LuminaStudioLtda&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lumina-studio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuminaStudioLtda&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
