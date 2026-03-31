@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/LuminaStudioLtda/LuminaStudioLtda/main/assets/image_3.png" alt="Lumina Flat Banner" style="margin: 20px 0; border-radius: 8px;" />
+  <img width="100%" src="nome-do-seu-arquivo.png" alt="Lumina Flat Banner" style="margin: 20px 0; border-radius: 8px;" />
 </div>
 
 <div align="center">
