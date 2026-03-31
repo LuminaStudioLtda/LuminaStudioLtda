@@ -108,7 +108,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuminaStudioLtda&theme=dark&hide_border=true&background=0d0d0d&stroke=444444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=cccccc" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuminaStudioLtda&theme=dark&hide_border=true&background=0d0d0d&stroke=444444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=cccccc" />
 </div>
 
 ---
