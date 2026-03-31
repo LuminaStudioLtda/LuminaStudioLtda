@@ -1,84 +1,91 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&animation=fadeIn&color=0:000000,50:9d35b9,100:000000&fontColor=FFFFFF&fontSize=50&fontAlignY=38&text=Lumina%20Studio&desc=Premium%20Software%20Development&descAlignY=58&descSize=18" />
-</div>
+<img src="banner.png"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=9d35b9&center=true&vCenter=true&width=1000&lines=Premium+Web+Development;Roblox+Studio+Experts;High+Performance+Systems;Innovation+that+illuminates" width="100%" />
-</div>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">✦ <em>About Us</em> ✦</h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <br/>
 
+<p>
+  Welcome to <em><b>Lumina Studio</b></em> — a creative development studio formed by <b>5 passionate developers</b> who build modern web experiences and immersive games. We blend fullstack engineering with game development to craft products that are functional, beautiful, and engaging.
+</p>
 
-<hr style="border: 0.5px solid #333;" />
+<br/>
 
-<div align="center">
-  <h3><code>🏢 About Us</code></h3>
-  <p align="center">
-    Lumina Studio Ltda is a software development powerhouse obsessed with technical excellence. <br/>
-    We bridge the gap between high-end web architecture and next-gen immersive gaming.
-  </p>
-</div>
+<p align="center">
+  🌐 &nbsp; <em><b>Fullstack Web & App Development (React, Next.js, Node.js)</b></em> <br/>
+  🎮 &nbsp; <em><b>Roblox Game Development (Environments, Modules, Scripts)</b></em> <br/>
+  🛠️ &nbsp; <em><b>5 Developers · Collaborative & Multidisciplinary Team</b></em> <br/>
+  🚀 &nbsp; <em><b>Deployed on Vercel · Built for scale</b></em> <br/>
+</p>
 
-<hr style="border: 0.5px solid #333;" />
+<br/>
+<br/>
 
-<div align="center">
-  <h3><code>🚀 Services & Expertise</code></h3>
-</div>
+<h2 align="center">⚙️ <em>Technologies</em></h2>
 
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="150%" align="center" style="padding: 10px;">
-        <h4 style="color: #9d35b9;">💻 Web Development</h4>
-        <p>High-End Landing Pages • Scalable Web Systems • Custom API Integrations • Next-Gen Infrastructure</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="150%" align="center" style="padding: 10px;">
-        <h4 style="color: #9d35b9;">🎮 Roblox Development</h4>
-        <p>Premium UI / UX Design • Advanced Luau Scripting • Game Design & Mechanics • Live Ops & Updates</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<h4 align="center">Frontend & Frameworks</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-<hr style="border: 0.5px solid #333;" />
+<h4 align="center">Backend & Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
-<div align="center">
-  <h3><code>📊 Performance & Ecosystem</code></h3>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuminaStudioLtda&theme=dark&hide_border=true&background=000000&ring=9d35b9&fire=9d35b9&currStreakLabel=9d35b9" alt="GitHub Streak" />
-</div>
+<h4 align="center">Databases & Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<hr style="border: 0.5px solid #333;" />
+<h4 align="center">Game Development</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
 
-<div align="center">
-  <h3><code>🛠️ Tech Stack</code></h3>
-  
-  <p><b>Frontend & Design</b></p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  
-  <p><b>Backend, DB & Cloud</b></p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<br/>
+<br/>
 
-  <p><b>Game Engine & Languages</b></p>
-  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Luau-000?style=flat-square&logo=roblox&logoColor=white" />
-</div>
-
-<hr style="border: 0.5px solid #333;" />
+<h2 align="center">📊 <em>Statistics</em></h2>
 
 <div align="center">
-  <br/>
-  <a href="https://linkedin.com/company/luminastudio"><img src="https://img.shields.io/badge/LinkedIn-9d35b9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/luminastudio"><img src="https://img.shields.io/badge/Instagram-9d35b9?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/luminastudio"><img src="https://img.shields.io/badge/Discord-9d35b9?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:9d35b9,100:000000&fontColor=cccccc&fontSize=14&text=©%202026%20·%20Lumina%20Studio%20Ltda&fontAlignY=65" />
+
+![](https://nirzak-streak-stats.vercel.app/?user=lumina-studio&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lumina-studio&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
 </div>
