@@ -4,9 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/c6630f0f-6246-444a-935b-163283281211?raw=true" style="border-radius: 12px; border: 2px solid #9d35b9;" />
-</div>
 
 <br/>
 
@@ -84,9 +81,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-  <p><code><b>Game Engine & Languages</b></code></p>
+  <p><code><b>Game Languages</b></code></p>
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Luau-000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="logo=roblox&logoColor=white" />
 </div>
 
 <hr style="border: 1px solid #9d35b9;" />
