@@ -1,174 +1,90 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&animation=twinkling&color=0:000000,50:1a1a1a,100:333333&fontColor=FFFFFF&fontSize=46&text=Lumina%20Studio%20Ltda&fontAlignY=38&desc=Turning%20ideas%20into%20digital%20experiences&descSize=16&descAlignY=58&descColor=cccccc" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&animation=fadeIn&color=0:000000,50:111111,100:222222&fontColor=FFFFFF&fontSize=48&text=Lumina%20Studio%20Ltda&fontAlignY=35&desc=Turning%20ideas%20into%20digital%20experiences&descSize=18&descAlignY=55&descColor=ffffff" width="100%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6630f0f-6246-444a-935b-163283281211?raw=true" alt="Lumina Banner" width="100%" /> 
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=640&lines=Hello+World%2C+we+are+Lumina+Studio+%F0%9F%91%8B;Web+Development+%7C+Roblox+Studio;Landing+Pages+%E2%80%A2+Systems+%E2%80%A2+Games;Quality+that+illuminates+every+project+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hello+World%2C+we+are+Lumina+Studio+%F0%9F%91%8B;Premium+Web+Development+%7C+Roblox+Experts;High+Performance+Systems+%E2%9A%A1;Innovation+that+illuminates+your+brand+%E2%9C%A8" width="100%" />
+</p>
 
 ---
 
-## 🏢 About Us
-
-**Lumina Studio Ltda** is a software development company founded by **5 partners** passionate about technology and innovation. We operate in two market segments — **high-standard web development** and **immersive Roblox experiences** — delivering solutions that combine technical excellence with impactful design.
+<p align="center">
+  <h2><code>🏢 About Us</code></h2>
+</p>
+<p align="center">
+  <b>Lumina Studio Ltda</b> is a software development powerhouse founded by <b>5 partners</b> obsessed with technical excellence. We bridge the gap between <b>high-end web architecture</b> and <b>next-gen immersive gaming</b>.
+</p>
 
 ---
 
-## 🚀 What We Do
+<p align="center">
+  <h2><code>🚀 Services & Expertise</code></h2>
+</p>
 
 <div align="center">
 
-| 💻 Web Development | <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/389f2d0b-b40a-4118-b879-f415d26fea7d" /> Roblox Development |
-|:---|:---|
-| **Landing Pages** — High conversion & performance | **UI / UX** — Intuitive in-game interfaces |
-| **Web Systems** — Robust, scalable applications | **Scripts & Systems** — Gameplay, inventory & events |
-| **Integrations** — APIs, databases & automation | **Modules** — Modular architecture in Luau |
-| **Deploy & Infra** — Vercel & cloud | **Environments** — Map design & virtual worlds |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<h3 align="left">⬡ &nbsp;Frontend</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" title="Tailwind CSS"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
-</div>
-
-<br/>
-
-<h3 align="left">⬡ &nbsp;Backend & Database</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
-</div>
-
-<br/>
-
-<h3 align="left">⬡ &nbsp;Game Development</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" title="Luau / Roblox"/>
-</div>
-
-<br/>
-
-<h3 align="left">⬡ &nbsp;Versioning & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" title="npm"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" title="Notion"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuminaStudioLtda&theme=dark&hide_border=true&background=0d0d0d&stroke=444444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=cccccc" />
-</div>
-
----
-
-## 🏆 Why Lumina?
-
-<div align="center">
-
-| &nbsp; | Strength | Detail |
-|:---:|:---|:---|
-| ◈ | **Quality Delivery** | Every line of code written with care and attention |
-| ◈ | **Transparent Communication** | You follow every step of your project in real time |
-| ◈ | **Specialized Team** | 5 professionals, multiple skills, one single goal |
-| ◈ | **Tailored Solutions** | No generic templates — every project is unique |
-| ◈ | **Deadlines & Commitment** | We deliver what we promise. Always. |
+| &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Web Development &nbsp; | &nbsp; <img src="https://simpleicons.org/icons/roblox.svg" width="20" style="filter: invert(1);"/> Roblox Development &nbsp; |
+| :--- | :--- |
+| <code>• High-End Landing Pages</code><br/><code>• Scalable Web Systems</code><br/><code>• Custom API Integrations</code><br/><code>• Next-Gen Infrastructure</code> | <code>• Premium UI / UX Design</code><br/><code>• Advanced Luau Scripting</code><br/><code>• Game Design & Mechanics</code><br/><code>• Live Ops & Updates</code> |
 
 </div>
 
 ---
 
-## 👥 Our Team
+<p align="center">
+  <h2><code>📊 Performance & Ecosystem</code></h2>
+</p>
 
-We are **5 founding partners** with complementary skills, working together to deliver projects that exceed expectations. Each member brings their expertise — from front-end to back-end, from web development to the Roblox universe.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuminaStudioLtda&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d" width="100%" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminaStudioLtda&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d" width="100%" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuminaStudioLtda&theme=dark&hide_border=true&background=0d0d0d" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📬 Get in Touch
+<p align="center">
+  <h2><code>🛠️ Tech Stack</code></h2>
+</p>
 
 <div align="center">
 
+<h3>Frontend & Design</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,figma" />
 <br/>
-
-Have a project in mind? **Let's talk.**
-
+<h3>Backend & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,mysql,postgres,docker,vercel" />
 <br/>
-
-<a href="mailto:contato@luminastudio.com.br">
-  <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=111111&logoColor=white&style=for-the-badge" height="38"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/company/luminastudio">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111111&logoColor=white&style=for-the-badge" height="38"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/luminastudio">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111111&logoColor=white&style=for-the-badge" height="38"/>
-</a>
-&nbsp;
-<a href="https://discord.gg/luminastudio">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=111111&logoColor=white&style=for-the-badge" height="38"/>
-</a>
-&nbsp;
-<a href="https://luminastudio.com.br">
-  <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=111111&logoColor=white&style=for-the-badge" height="38"/>
-</a>
-
-<br/>
+<h3>Game Engine</h3>
+<img src="https://skillicons.dev/icons?i=lua" />
 
 </div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:333333,50:1a1a1a,100:000000&fontColor=cccccc&fontSize=13&text=©%202026%20·%20Lumina%20Studio%20Ltda%20·%20All%20rights%20reserved.&fontAlignY=65" />
-</div>
+---
+
+<p align="center">
+  <h2><code>📬 Connect With Our Founders</code></h2>
+</p>
+<p align="center">
+  <b>Have a vision? We have the light. Let's build something extraordinary.</b>
+</p>
+<br/>
+<p align="center">
+  <a href="mailto:contato@luminastudio.com.br"><img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=111111&logoColor=white&style=for-the-badge" height="35"/></a>
+  <a href="https://linkedin.com/company/luminastudio"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111111&logoColor=white&style=for-the-badge" height="35"/></a>
+  <a href="https://instagram.com/luminastudio"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111111&logoColor=white&style=for-the-badge" height="35"/></a>
+  <a href="https://discord.gg/luminastudio"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=111111&logoColor=white&style=for-the-badge" height="35"/></a>
+  <a href="https://luminastudio.com.br"><img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=111111&logoColor=white&style=for-the-badge" height="35"/></a>
+</p>
+<br/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:222222,50:111111,100:000000&fontColor=cccccc&fontSize=14&text=©%202026%20·%20Lumina%20Studio%20Ltda%20·%20Illuminating%20the%20Digital%20World&fontAlignY=65" />
+</p>
