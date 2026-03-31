@@ -34,8 +34,8 @@
   🚀 &nbsp; <em><b>Deployed on Vercel · Built for scale</b></em>
 </p>
 </td>
-<td width="40%" valign="middle" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
+<td width="40%" valign="middle" align="center" style="padding:0">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="display:block;margin:0" />
 </td>
 </tr></table>
 
