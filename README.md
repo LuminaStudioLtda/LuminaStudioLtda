@@ -110,14 +110,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuminaStudioLtda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminaStudioLtda&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" />
-
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuminaStudioLtda&theme=dark&hide_border=true&background=0d0d0d&stroke=444444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=cccccc" />
 </div>
 
@@ -142,8 +134,6 @@
 ## 👥 Our Team
 
 We are **5 founding partners** with complementary skills, working together to deliver projects that exceed expectations. Each member brings their expertise — from front-end to back-end, from web development to the Roblox universe.
-
-> *"A team united by a passion for technology and the desire to build projects that truly illuminate."*
 
 ---
 
@@ -176,10 +166,6 @@ Have a project in mind? **Let's talk.**
 <a href="https://luminastudio.com.br">
   <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=111111&logoColor=white&style=for-the-badge" height="38"/>
 </a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=LuminaStudioLtda&color=ffffff&style=flat-square&label=Profile+Views)
 
 <br/>
 
