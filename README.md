@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-<h2 align="center">⚙️ <em>Technologies</em></h2>
+<h2 align="center"><em>Technologies</em></h2>
 
 <h4 align="center">Frontend & Frameworks</h4>
 <p align="center">
@@ -80,7 +80,7 @@
 <br/>
 <br/>
 
-<h2 align="center">📊 <em>Statistics</em></h2>
+<h2 align="center"><em>Statistics</em></h2>
 
 <div align="center">
 
